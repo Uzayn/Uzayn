@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uzayn 
-- 🌱 I’m currently learning Python, C, C++, HTML and HTML5 
+- 🌱 I’m currently... 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 Reach me @koleoshohuzain
 
