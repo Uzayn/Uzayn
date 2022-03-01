@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uzayn 
-- 🌱 I’m currently open to great developing experiences
+- 🌱 I’m currently learning and open to great developing experiences
 - 💞️ I’m looking to collaborate on projects 
 - 📫 Reach me @koleoshohuzain
 
