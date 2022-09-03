@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">- 👋 Hey there!, I’m @Huzain</h1> 
-<h4>- ⚙ I’m a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
+<h4>- ⚙ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 <h4>- 🌱 I’m currently learning React and open to great developing experiences</h4>
 <h4>- 💞️ I’m open to collaborate on projects</h4> 
 <h4>- 📫 Reach me @koleoshohuzain@gmail.com</h4>
