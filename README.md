@@ -5,7 +5,7 @@
 <h4>- ⚙ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 <h4>- 🌱 React, Javascript, Tailwind CSS ...</h4>
 <h4>- 💞️ I’m open to collaborate on projects</h4> 
-<h4>- 📫 Reach me @koleoshohuzain@gmail.com</h4>
+<h4>- 📫 Reach me @koleoshohuzain@gmail.com, <a href="https://twitter.com/_Uzayn">Twitter</a>, <a href="https://www.linkedin.com/in/uzayn/">LinkedIn</a>.</h4>
 <h4>- 📌 I'm open to Internship Roles</h4>
 
 <h3>🛠 Tech Stack: </h3>
