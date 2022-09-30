@@ -24,6 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzayn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Screenshot (467)](https://user-images.githubusercontent.com/95490624/193334623-c797c929-9595-4011-8c02-45c1e1cfe5a2.png)
 
 <!---
 Uzayn/Uzayn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
