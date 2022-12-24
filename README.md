@@ -4,6 +4,7 @@
 <h1 align="center">👋 Hey there!, I’m Huzain</h1> 
 <h4>- ⚙ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 <h4>- 🌱 React, Javascript, Tailwind CSS ...</h4>
+<h4>- 💞️ I’m open to collaborate on open source projects</h4> 
 <h4>- 📫 Reach me @koleoshohuzain@gmail.com, <a href="https://twitter.com/_Uzayn">Twitter</a>, <a href="https://www.linkedin.com/in/uzayn/">LinkedIn</a>.</h4>
 
 <h3>🛠 Tech Stack: </h3>
@@ -21,8 +22,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uzayn&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzayn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Screenshot (467)](https://user-images.githubusercontent.com/95490624/193334623-c797c929-9595-4011-8c02-45c1e1cfe5a2.png)
 
 <!---
 Uzayn/Uzayn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
