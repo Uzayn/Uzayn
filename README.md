@@ -3,8 +3,7 @@
 </div>
 <h1 align="center">👋 Hey there!, I’m Huzain</h1> 
 <h4>- ⚙ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-<h4>- 💪 Javascript</h4>
-<h4>- 💞️ I’m open to collaborate on projects</h4> 
+<h4>- 💪 Javascript</h4> 
 <h4>- 📫 Reach me @koleoshohuzain@gmail.com, <a href="https://twitter.com/_Uzayn">Twitter</a>, <a href="https://www.linkedin.com/in/uzayn/">LinkedIn</a>.</h4>
 <div>
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
