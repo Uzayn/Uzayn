@@ -19,12 +19,6 @@
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 </div>
-
-
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uzayn&theme=dark&background=000000)](https://git.io/streak-stats)
-
                                                                                                                                         
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzayn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)--->
 
