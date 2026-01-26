@@ -5,8 +5,7 @@
 <h1 align="center">👋 Hey, I'm Huzain</h1>
 
 <p align="center">
-  <strong>Frontend Engineer</strong> with 3+ years of experience building performant web applications.<br/>
-  I care about creating perfomant web interfaces and engaging experiences
+  <strong>Frontend Engineer</strong> with 3+ years of experience building useful web applications.<br/>
 </p>
 
 <p align="center">
