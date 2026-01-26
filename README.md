@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Frontend Engineer</strong> with 3+ years of experience building performant web applications.<br/>
-  I specialize in migrating legacy codebases to modern stacks and creating component libraries that scale.
+  I care about creating perfomant web interfaces and engaging experiences
 </p>
 
 <p align="center">
