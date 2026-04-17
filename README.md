@@ -9,20 +9,20 @@
 </p>
 
 <p align="center">
-  <a href="https://huzain.work">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/uzayn/">💼 LinkedIn</a> •
-  <a href="https://twitter.com/_Uzayn">🐦 Twitter</a> •
-  <a href="mailto:koleoshohuzain@gmail.com">📫 Email</a>
+  <a href="https://huzain.work">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/uzayn/">LinkedIn</a> •
+  <a href="https://twitter.com/_Uzayn">X (Twitter)</a> •
+  <a href="mailto:koleoshohuzain@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- ⚙️ Frontend Engineer — currently open to roles 🌍
-- 🏢 Most recently at **Bilin** (Germany), where I led the migration from Laravel/jQuery to a modern SPA with Svelte, TypeScript & Inertia.js
-- 🎨 Strong foundation in **design fundamentals** and **UX sensibility**
-- ☕ When not coding: managing my FPL team, playing tennis, or listening to old school afrobeats
+- Frontend Engineer — currently open to roles 🌍
+- Most recently at **Bilin** (Germany), where I led the migration from Laravel/jQuery to a modern SPA with Svelte, TypeScript & Inertia.js
+- Strong foundation in **design fundamentals** and **UX sensibility**
+- When not coding: managing my FPL team, playing tennis, or listening to old school afrobeats
 
 ---
 
